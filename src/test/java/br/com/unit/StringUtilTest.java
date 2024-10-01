@@ -8,7 +8,7 @@ public class StringUtilTest {
 
     @Test
     public void testPalindromoTrue() {
-        assertTrue(StringUtil.Validador.ehPalindromo("arara"), "A palavra 'arara' é um palíndromo.");
+        assertTrue(StringUtil.Validador.ehPalindromo("arara"), "A palavra 'arara' é um palíndromo.")
     }
 
     @Test
